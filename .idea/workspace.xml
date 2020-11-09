@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5edd76b-cde6-463f-8202-4656a53d1779" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/bundles.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/packages/cache.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/packages/doctrine.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/packages/doctrine_migrations.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/packages/framework.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/packages/prod/doctrine.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/packages/prod/routing.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/packages/routing.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/packages/test/framework.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/preload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/routes.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/routes/annotations.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/routes/dev/framework.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config/services.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/migrations/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/Controller/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/Entity/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/Repository/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/symfony docker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony docker.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/#ib_16384_0.dblwr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/binlog.000002" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/binlog.000002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/ib_logfile0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/ibdata1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/mysql.ibd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/undo_001" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,18 +138,34 @@
       <workItem from="1604772017770" duration="107000" />
       <workItem from="1604772262511" duration="766000" />
       <workItem from="1604789396978" duration="4654000" />
-      <workItem from="1604960398334" duration="875000" />
+      <workItem from="1604960398334" duration="1497000" />
     </task>
+    <task id="LOCAL-00001" summary="symfony and react start">
+      <created>1604961451001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604961451001</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="symfony and react start" />
+    <option name="LAST_COMMIT_MESSAGE" value="symfony and react start" />
   </component>
   <component name="WindowStateProjectService">
     <state x="789" y="0" key="#php/Dockerfile" timestamp="1604751361147">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="789" y="0" key="#php/Dockerfile/0.0.1366.738@0.0.1366.738" timestamp="1604751361147" />
+    <state x="460" y="0" key="CommitChangelistDialog2" timestamp="1604961443904">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="460" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604961443904" />
     <state x="909" y="296" key="NewPhpFileDialog" timestamp="1604753198480">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
